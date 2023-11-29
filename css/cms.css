@@ -1,0 +1,7 @@
+.disp{
+    background-color:  #45CFDD;
+}
+.hoverme:hover{
+    color: #F0DE36;
+    transition: 0.1s;
+  }
